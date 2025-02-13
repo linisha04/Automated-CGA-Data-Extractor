@@ -1,0 +1,18 @@
+{
+    "2022-2023": {
+        "url": "https://cga.nic.in/GlanceReport/Published/2022-2023.aspx",
+        "info": {
+            "Home": "https://cga.nic.in/index.aspx",
+            "Accounts At a Glance 2022-2023": "https://cga.nic.in//writereaddata/file/Accounts%20at%20a%20Glance%202022-23%20(English)%20-%20Final.pdf",
+            "Hindi Version": "https://cga.nic.in//writereaddata/file/Accounts%20at%20a%20Glance%202022-23%20(Hindi)%20-%20Final.pdf"
+        }
+    },
+    "2021-2022": {
+        "url": "https://cga.nic.in/GlanceReport/Published/2021-2022.aspx",
+        "info": {
+            "Home": "https://cga.nic.in/index.aspx",
+            "Accounts At a Glance 2021-2022": "https://cga.nic.in//writereaddata/file/AccountsataGlance2021_2022.pdf",
+            "Hindi Version": "https://cga.nic.in//writereaddata/file/AccountsataGlance2021_2022_hindi.pdf"
+        }
+    }
+}
